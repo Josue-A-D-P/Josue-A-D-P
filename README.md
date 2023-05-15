@@ -1,6 +1,8 @@
 ## Olá eu sou Josué Porto, 
 Estudante de Engenharia de Software!
 
+![Porto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josue&show_icons=true&theme=transparent)
+
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Josue-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
